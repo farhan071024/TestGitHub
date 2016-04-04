@@ -1,0 +1,14 @@
+CREATE TABLE user
+(
+Phone int,
+LastName varchar(255),
+FirstName varchar(255),
+Address varchar(255),
+City varchar(255)
+);
+
+CREATE TABLE user(
+    Phone VARCHAR(255),Name VARCHAR(255),Latitude VARCHAR(255), Longitude VARCHAR(255), Event VARCHAR(255), PRIMARY KEY(Phone));
+
+
+http://1-dot-controlcenter-1260.appspot.com/commandcentre
